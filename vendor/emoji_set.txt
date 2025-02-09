@@ -1,0 +1,256 @@
+0,511,1F412,monkey
+1,515,1F415,dog
+2,523,1F408,cat
+3,525,1F981,lion
+4,527,1F405,tiger
+5,528,1F406,leopard
+6,530,1F40E,horse
+7,532,1F993,zebra
+8,533,1F98C,deer
+9,538,1F404,cow
+10,540,1F416,pig
+11,545,1F410,goat
+12,546,1F42A,camel
+13,550,1F418,elephant
+14,555,1F401,mouse
+15,559,1F407,rabbit
+16,563,1F987,bat
+17,564,1F43B,bear
+18,576,1F413,rooster
+19,581,1F427,penguin
+20,582,1F54A,dove
+21,583,1F985,eagle
+22,584,1F986,duck
+23,585,1F9A2,swan
+24,586,1F989,owl
+25,589,1F9A9,flamingo
+26,590,1F99A,peacock
+27,591,1F99C,parrot
+28,592,1F438,frog
+29,593,1F40A,crocodile
+30,594,1F422,turtle
+31,595,1F98E,lizard
+32,596,1F40D,snake
+33,602,1F40B,whale
+34,603,1F42C,dolphin
+35,605,1F41F,fish
+36,608,1F988,shark
+37,609,1F419,octopus
+38,612,1F98B,butterfly
+39,614,1F41C,ant
+40,615,1F41D,honeybee
+41,620,1F577,spider
+42,622,1F982,scorpion
+43,623,1F99F,mosquito
+44,631,1F339,rose
+45,634,1F33B,sunflower
+46,642,1F335,cactus
+47,650,1F347,grapes
+48,652,1F349,watermelon
+49,654,1F34B,lemon
+50,655,1F34C,banana
+51,656,1F34D,pineapple
+52,657,1F96D,mango
+53,658,1F34E,red apple
+54,666,1F345,tomato
+55,668,1F965,coconut
+56,671,1F954,potato
+57,672,1F955,carrot
+58,673,1F33D,ear of corn
+59,674,1F336,hot pepper
+60,676,1F952,cucumber
+61,679,1F9C4,garlic
+62,680,1F9C5,onion
+63,681,1F344,mushroom
+64,682,1F95C,peanuts
+65,684,1F35E,bread
+66,699,1F355,pizza
+67,701,1F96A,sandwich
+68,715,1F9C8,butter
+69,716,1F9C2,salt
+70,745,1F382,birthday cake
+71,749,1F36B,chocolate bar
+72,755,1F95B,glass of milk
+73,761,1F377,wine glass
+74,772,1F9CA,ice
+75,776,1F944,spoon
+76,777,1F52A,kitchen knife
+77,785,1F9ED,compass
+78,787,26F0,mountain
+79,788,1F30B,volcano
+80,798,1F9F1,brick
+81,804,1F3E0,house
+82,828,26F2,fountain
+83,840,1F3A1,ferris wheel
+84,843,1F3AA,circus tent
+85,848,1F686,train
+86,849,1F687,metro
+87,856,1F68C,bus
+88,860,1F691,ambulance
+89,861,1F692,fire engine
+90,864,1F695,taxi
+91,872,1F69C,tractor
+92,874,1F3CD,motorcycle
+93,875,1F6F5,motor scooter
+94,878,1F6FA,auto rickshaw
+95,879,1F6B2,bicycle
+96,886,1F6E2,oil drum
+97,887,26FD,fuel pump
+98,893,2693,anchor
+99,901,2708,airplane
+100,905,1FA82,parachute
+101,907,1F681,helicopter
+102,911,1F6F0,satellite
+103,912,1F680,rocket
+104,915,1F9F3,luggage
+105,918,231A,watch
+106,919,23F0,alarm clock
+107,959,1F321,thermometer
+108,968,2601,cloud
+109,981,1F308,rainbow
+110,983,2602,umbrella
+111,986,26A1,high voltage
+112,991,1F525,fire
+113,992,1F4A7,droplet
+114,995,1F384,Christmas tree
+115,998,1F9E8,firecracker
+116,1000,1F388,balloon
+117,1010,1F380,ribbon
+118,1016,1F3C6,trophy
+119,1017,1F3C5,sports medal
+120,1021,26BD,soccer ball
+121,1025,1F3D0,volleyball
+122,1028,1F3BE,tennis
+123,1031,1F3CF,cricket game
+124,1032,1F3D1,field hockey
+125,1036,1F3F8,badminton
+126,1050,1FA81,kite
+127,1055,1F3AE,video game
+128,1058,1F3B2,game die
+129,1060,1F9F8,teddy bear
+130,1068,1F0CF,joker
+131,1073,1F3A8,artist palette
+132,1074,1F9F5,thread
+133,1078,1F453,glasses
+134,1083,1F454,necktie
+135,1084,1F455,t-shirt
+136,1085,1F456,jeans
+137,1086,1F9E3,scarf
+138,1087,1F9E4,gloves
+139,1088,1F9E5,coat
+140,1089,1F9E6,socks
+141,1090,1F457,dress
+142,1092,1F97B,sari
+143,1096,1F459,bikini
+144,1098,1F45B,purse
+145,1099,1F45C,handbag
+146,1101,1F6CD,shopping bags
+147,1104,1F45E,man’s shoe
+148,1109,1F461,woman’s sandal
+149,1112,1F451,crown
+150,1119,1F4FF,prayer beads
+151,1120,1F484,lipstick
+152,1121,1F48D,ring
+153,1122,1F48E,gem stone
+154,1127,1F4E2,loudspeaker
+155,1130,1F514,bell
+156,1133,1F3B5,musical note
+157,1138,1F3A4,microphone
+158,1139,1F3A7,headphone
+159,1140,1F4FB,radio
+160,1143,1F3B8,guitar
+161,1144,1F3B9,musical keyboard
+162,1145,1F3BA,trumpet
+163,1146,1F3BB,violin
+164,1147,1FA95,banjo
+165,1148,1F941,drum
+166,1150,1F4F1,mobile phone
+167,1152,260E,telephone
+168,1154,1F4DF,pager
+169,1155,1F4E0,fax machine
+170,1156,1F50B,battery
+171,1157,1F50C,electric plug
+172,1158,1F4BB,laptop
+173,1159,1F5A5,desktop computer
+174,1160,1F5A8,printer
+175,1161,2328,keyboard
+176,1162,1F5B1,computer mouse
+177,1164,1F4BD,computer disk
+178,1165,1F4BE,floppy disk
+179,1167,1F4C0,dvd
+180,1169,1F3A5,movie camera
+181,1170,1F39E,film frames
+182,1171,1F4FD,film projector
+183,1173,1F4FA,television
+184,1174,1F4F7,camera
+185,1176,1F4F9,video camera
+186,1177,1F4FC,videocassette
+187,1180,1F56F,candle
+188,1181,1F4A1,light bulb
+189,1182,1F526,flashlight
+190,1184,1FA94,diya lamp
+191,1191,1F4DA,books
+192,1192,1F4D3,notebook
+193,1196,1F4C4,page facing up
+194,1197,1F4F0,newspaper
+195,1201,1F3F7,label
+196,1209,1F4B3,credit card
+197,1212,2709,envelope
+198,1213,1F4E7,e-mail
+199,1218,1F4E6,package
+200,1223,1F4EE,postbox
+201,1225,270F,pencil
+202,1227,1F58B,fountain pen
+203,1229,1F58C,paintbrush
+204,1230,1F58D,crayon
+205,1232,1F4BC,briefcase
+206,1233,1F4C1,file folder
+207,1236,1F4C5,calendar
+208,1244,1F4CB,clipboard
+209,1245,1F4CC,pushpin
+210,1247,1F4CE,paperclip
+211,1249,1F4CF,straight ruler
+212,1250,1F4D0,triangular ruler
+213,1251,2702,scissors
+214,1253,1F5C4,file cabinet
+215,1254,1F5D1,wastebasket
+216,1255,1F512,locked
+217,1259,1F511,key
+218,1261,1F528,hammer
+219,1262,1FA93,axe
+220,1263,26CF,pick
+221,1266,1F5E1,dagger
+222,1267,2694,crossed swords
+223,1270,1F3F9,bow and arrow
+224,1271,1F6E1,shield
+225,1273,1F527,wrench
+226,1275,1F529,nut and bolt
+227,1276,2699,gear
+228,1277,1F5DC,clamp
+229,1278,2696,balance scale
+230,1280,1F517,link
+231,1281,26D3,chains
+232,1283,1F9F0,toolbox
+233,1284,1F9F2,magnet
+234,1290,1F52C,microscope
+235,1291,1F52D,telescope
+236,1292,1F4E1,satellite antenna
+237,1293,1F489,syringe
+238,1295,1F48A,pill
+239,1296,1FA79,adhesive bandage
+240,1297,1FA7A,stethoscope
+241,1298,1F6AA,door
+242,1302,1F6CF,bed
+243,1304,1FA91,chair
+244,1305,1F6BD,toilet
+245,1307,1F6BF,shower
+246,1312,1F9F7,safety pin
+247,1313,1F9F9,broom
+248,1314,1F9FA,basket
+249,1317,1F9FC,soap
+250,1320,1F9EF,fire extinguisher
+251,1321,1F6D2,shopping cart
+252,1322,1F6AC,cigarette
+253,1323,26B0,coffin
+254,1328,1F3E7,ATM sign
+255,1346,1F6AD,no smoking

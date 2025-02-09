@@ -1,0 +1,46 @@
+[
+    {
+        "name": "steppinghat/emoji-detector",
+        "version": "1.1.0",
+        "version_normalized": "1.1.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/SteppingHat/php-emoji-detector.git",
+            "reference": "d2301e9553795e1ac2f3f2638438b3808654c57f"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/SteppingHat/php-emoji-detector/zipball/d2301e9553795e1ac2f3f2638438b3808654c57f",
+            "reference": "d2301e9553795e1ac2f3f2638438b3808654c57f",
+            "shasum": ""
+        },
+        "require": {
+            "ext-json": "*",
+            "ext-mbstring": "*",
+            "php": ">=7.1"
+        },
+        "require-dev": {
+            "symfony/phpunit-bridge": "^5.0@dev"
+        },
+        "time": "2021-03-18T06:03:22+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "SteppingHat\\EmojiDetector\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Javan Eskander",
+                "homepage": "https://javaneskander.com"
+            }
+        ],
+        "description": "Detect and validate emoji in an input string",
+        "homepage": "https://github.com/steppinghat/emoji-detector"
+    }
+]
